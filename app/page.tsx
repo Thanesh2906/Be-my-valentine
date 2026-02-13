@@ -189,7 +189,7 @@ export default function Home() {
             transition={{ duration: 1, delay: 0.7 }}
             className="text-4xl leading-tight text-ruby md:text-6xl"
           >
-            Every heartbeat softly whispers your name, Banu Jayendran.
+            Every heartbeat softly whispers your name, Banu Jeyendran.
             <br />
             <span className="text-wine">Will you be my Valentine?</span>
           </motion.h1>
